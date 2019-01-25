@@ -1,3 +1,6 @@
+### KEY: Good Job! However, get in the habit of forcing all user input to lower case before checking
+### KEY: if (userinput.lower() == 'q')
+
 # Python Review of Misc Topics - JavaScript/Python comparison, Loops, Functions
 
 ### Problem 1:
